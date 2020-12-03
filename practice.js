@@ -1,6 +1,5 @@
-function doubleNumber(number) {
-    // multiply the number by 2
-    return number * 2;
+function tripleNumber(number) {
+    return number * 3;
 }
 
-console.log(doubleNumber(5)); // 10
+console.log(tripleNumber(5)); // 15
